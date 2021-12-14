@@ -8,16 +8,16 @@ Python based console poker app using the rules of Texas Hold'em
 
 ## Example Gameplay
 
-Starting The Game
+### Starting The Game
 <br />
 ![](imgs/start.png)
 
-Player Options/Moves
+### Player Options/Moves
 <br />
 ![](imgs/options.png)
 
 ![](imgs/options2.png)
 
-End Screen
+### End Screen
 <br />
 ![](imgs/end.png)
