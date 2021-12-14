@@ -7,3 +7,13 @@ Python based console poker app using the rules of Texas Hold'em
 - custom winning algorithms to determine the winning hand
 
 ## Example Gameplay
+
+Starting The Game
+![](imgs/start.png)
+
+Player Options/Moves
+![](imgs/options.png)
+![](imgs/options2.png)
+
+End Screen
+![](imgs/end.png)
