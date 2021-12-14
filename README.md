@@ -13,6 +13,7 @@ Starting The Game
 
 Player Options/Moves
 ![](imgs/options.png)
+
 ![](imgs/options2.png)
 
 End Screen
